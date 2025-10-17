@@ -1,8 +1,8 @@
 import Home from "./src/screens/home";
-
+import Dashboard from "./src/screens/dashboard";
 export default function App() {
   return (
-  <Home/>
+  <Dashboard/>
   );
 }
 
